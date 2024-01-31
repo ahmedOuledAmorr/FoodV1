@@ -39,3 +39,6 @@ const styles = StyleSheet.create({
   erroMessage:{ color: 'red',fontWeight:'bold',fontSize:30 },
   image:{ width: 200, height: 200 }
 })
+
+
+//...
